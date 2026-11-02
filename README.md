@@ -51,6 +51,10 @@ Avoid: generic stock-style layouts, unreadable text, unsupported claims.
 First propose the visual hierarchy and layout direction. Then produce the creative specification and a final quality checklist.
 ```
 
+## Practical examples
+
+See [Practical examples](examples/README.md) for ready-to-adapt workflows covering a solar product launch, starter brand identity, event poster planning, and structured design critique.
+
 ## Principles
 
 - **Brief before visuals:** clarify the audience, message, objective, and constraints.
