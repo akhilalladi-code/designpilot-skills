@@ -21,7 +21,7 @@ Platform and placement, dimensions or aspect ratio, campaign objective, audience
 7. Check factual accuracy, spelling, dates, contact details, and CTA destination.
 8. Export in the requested formats and inspect the actual files.
 
-## Creative specification
+## Output format
 Include: objective; audience; placement; dimensions; copy hierarchy; visual metaphor; layout; image direction; brand rules; CTA; accessibility notes; export settings; and QA checklist.
 
 ## Quality checklist
