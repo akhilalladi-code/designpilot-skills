@@ -55,6 +55,10 @@ Avoid: generic stock-style layouts, unreadable text, unsupported claims.
 First propose the visual hierarchy and layout direction. Then produce the creative specification and a final quality checklist.
 ```
 
+## Case studies
+
+Explore [illustrative before-and-after design case studies](docs/case-studies.md) showing how structured skills improve solar launch announcements and event poster briefs. These are teaching examples, not claimed client work.
+
 ## Practical examples
 
 See [Practical examples](examples/README.md) for ready-to-adapt workflows covering a solar product launch, starter brand identity, event poster planning, and structured design critique.
