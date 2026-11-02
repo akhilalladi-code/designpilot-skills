@@ -1,0 +1,30 @@
+name: Propose a new skill
+description: Suggest a focused, reusable design workflow.
+title: "[New skill]: "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Proposed skill name
+      placeholder: packaging-design
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this skill solve?
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: What steps or expertise should it include?
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example use cases or references
+    validations:
+      required: false
