@@ -25,6 +25,10 @@ This project provides focused skill files that help an AI assistant reason throu
 | [Design research](skills/design-research/SKILL.md) | Reference gathering, source evaluation, and visual direction | Available |
 | [Anti-generic design](skills/anti-generic-design/SKILL.md) | Avoiding repetitive, template-like AI design decisions | Available |
 
+## Installation
+
+Read the [installation and usage guide](docs/installation.md) to add DesignPilot Skills to your AI assistant's workflow. It covers project-level references, conversation-based use, and adapting skills to agent-specific formats.
+
 ## Quick start
 
 1. Open the skill you need in the `skills/` directory.
