@@ -29,5 +29,8 @@ For each reference capture: source; context; audience; visual characteristics; c
 - Recommendations are original and tied to the brief.
 - Copyright, trademarks, and licensing are considered.
 
+## Output format
+Return the research question, source list with dates and links, observed patterns, gaps or opportunities, original design principles, recommended creative routes, rights notes, and remaining research questions.
+
 ## Guardrails
 Never present another designer's work as original. Do not reproduce protected artwork or a distinctive brand identity. If browsing is unavailable, say that the research is conceptual and request or identify sources for verification.
