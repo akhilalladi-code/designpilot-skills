@@ -96,6 +96,10 @@ designpilot-skills/
 └── README.md
 ```
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for the initial release notes and future project updates.
+
 ## Contributing
 
 Contributions are welcome: new skills, clearer workflows, examples, accessibility improvements, and corrections.
