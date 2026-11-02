@@ -27,6 +27,9 @@ Confirm trim size, bleed, safe area, resolution, color mode/profile, embedded or
 ## Digital checks
 Confirm screen dimensions, file size, color profile, compression, and legibility on the target display.
 
+## Output format
+Provide the poster objective, audience, dimensions, message hierarchy, concept, layout direction, typography and imagery notes, production specifications, and final proof checklist.
+
 ## Quality checklist
 - One dominant message
 - Clear reading order
