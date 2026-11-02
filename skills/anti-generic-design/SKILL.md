@@ -40,5 +40,12 @@ Ask:
 ## Output format
 Provide the core idea, three visual territories, rationale for each, recommended route, specific design decisions, elements deliberately excluded, and a QA checklist.
 
+## Quality checklist
+- The concept is specific to the brief and audience.
+- Each major visual element has a clear communication role.
+- The direction avoids unmotivated visual clichés.
+- Distinctiveness comes from relevant content and coherent choices.
+- The design remains legible, accessible, and production-ready.
+
 ## Guardrails
 Do not add visual complexity just to appear original. Do not imitate a named artist or designer. Distinctiveness should come from relevant content and coherent choices, not arbitrary novelty.
