@@ -66,7 +66,7 @@ def main() -> int:
     if readme.exists():
         readme_text = readme.read_text(encoding="utf-8")
         for path in skill_files:
-            relative_link = f"({path.as_posix()})"
+            relative_link = f"({path.relative_to(ROOT).as_posix()})"
             if relative_link not in readme_text:
                 errors.append(f"README.md: missing link to {path.relative_to(ROOT)}")
 
