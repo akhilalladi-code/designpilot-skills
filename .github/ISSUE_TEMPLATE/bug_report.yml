@@ -1,0 +1,26 @@
+name: Skill issue or correction
+description: Report an unclear, incorrect, or incomplete skill instruction.
+title: "[Skill issue]: "
+labels: ["documentation"]
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Skill name or file path
+      placeholder: skills/typography/SKILL.md
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What needs improvement?
+      description: Explain the issue and the impact on the workflow.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+      description: Include a concrete correction or example if possible.
+    validations:
+      required: false
