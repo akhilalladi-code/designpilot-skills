@@ -8,6 +8,14 @@ description: Review a visual design with evidence-based observations and priorit
 ## Objective
 Improve the work without replacing the creator's intent with personal taste.
 
+## Workflow
+1. Confirm the design objective, audience, format, and constraints.
+2. Describe the first impression and likely reading order.
+3. Review the artifact against the framework below.
+4. Separate observed issues from subjective alternatives.
+5. Prioritise fixes by impact and provide concrete next steps.
+6. Re-check the revised design against the original objective.
+
 ## Review framework
 Assess:
 1. **Goal and audience:** Is the intended message appropriate and clear?
