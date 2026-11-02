@@ -38,5 +38,12 @@ Assess:
 
 **Final QA:** concise checklist.
 
+## Quality checklist
+- The critique is tied to the stated communication goal.
+- Every major issue includes observable evidence and a practical correction.
+- High-impact comprehension issues are prioritised over personal taste.
+- Strengths are acknowledged without vague praise.
+- Uncertainty and untested accessibility claims are clearly identified.
+
 ## Guardrails
 Do not infer a designer's ability, intent, or identity from one artifact. Be respectful and specific. Do not claim accessibility compliance without testing. If image detail is insufficient, state what cannot be assessed.
