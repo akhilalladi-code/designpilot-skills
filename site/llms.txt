@@ -1,0 +1,36 @@
+# DesignPilot Skills
+
+> An open-source, tool-agnostic library of reusable graphic design workflows for AI coding agents and creative assistants.
+
+## Canonical resources
+
+- Project website: https://akhilalladi-code.github.io/designpilot-skills/
+- Source repository: https://github.com/akhilalladi-code/designpilot-skills
+- README: https://github.com/akhilalladi-code/designpilot-skills/blob/main/README.md
+- Installation guide: https://github.com/akhilalladi-code/designpilot-skills/blob/main/docs/installation.md
+- Agent compatibility guide: https://github.com/akhilalladi-code/designpilot-skills/blob/main/docs/agent-compatibility.md
+- Examples: https://github.com/akhilalladi-code/designpilot-skills/tree/main/examples
+- Contribution guide: https://github.com/akhilalladi-code/designpilot-skills/blob/main/CONTRIBUTING.md
+
+## Included skills
+
+- Brand identity: positioning, identity direction, logo-system planning and consistency.
+- Typography: type pairing, hierarchy, readability and responsive type systems.
+- Color systems: palette construction, contrast, semantic roles and accessibility.
+- Social media design: platform-aware briefs, layouts and export checks.
+- Poster design: message hierarchy, composition and print planning.
+- Design critique: structured, actionable visual review.
+- Design research: reference gathering, source evaluation and visual direction.
+- Anti-generic design: avoiding repetitive, template-like AI design decisions.
+
+## Usage
+
+The skills are Markdown instruction files. Choose the relevant skill, provide the AI agent with the actual brief and constraints, and review the output for accuracy, accessibility, licensing and production readiness.
+
+## Important limitations
+
+The project provides workflows and instructions; it is not an autonomous graphic design application. Agent setup patterns are documented, not certified end-to-end integrations. Human review remains necessary.
+
+## License
+
+MIT. See the LICENSE file in the source repository.
