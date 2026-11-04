@@ -12,6 +12,12 @@ AI can generate visual assets quickly, but speed alone does not create good desi
 
 This project provides focused skill files that help an AI assistant reason through those decisions instead of jumping straight to decoration.
 
+## Project website and discoverability
+
+Visit the [DesignPilot Skills website](https://akhilalladi-code.github.io/designpilot-skills/) for an overview of the project, its skill library, getting-started guidance, and frequently asked questions.
+
+The website publishes a [crawler policy](https://akhilalladi-code.github.io/designpilot-skills/robots.txt), [XML sitemap](https://akhilalladi-code.github.io/designpilot-skills/sitemap.xml), and [AI-readable project summary](https://akhilalladi-code.github.io/designpilot-skills/llms.txt). These files help crawlers and readers discover and understand the project; they do not guarantee indexing or AI citations.
+
 ## Skill library
 
 | Skill | What it helps with | Status |
