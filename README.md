@@ -1,3 +1,7 @@
+![DESIGNPILOT SKILLS — Diwali 2026](./assets/diwali-banner.svg)
+
+<p align="center"><a href="https://akhilalladi-code.github.io/diwali-universe/"><strong>🪔 Explore Diwali Universe 2026 · Interactive celebration ↗</strong></a></p>
+
 # DesignPilot Skills
 
 A practical, open-source library of reusable design workflows for AI coding agents and creative assistants.
